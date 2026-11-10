@@ -1,8 +1,8 @@
 const Header = () => {
   return (
     <header>
-      <nav>
-        <ul>
+      <nav className="bg-gray-800 text-white py-4 px-6 flex justify-end">
+        <ul className="flex space-x-4">
           <li>
             <a href="/">Home</a>
           </li>
