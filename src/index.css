@@ -1,14 +1,1 @@
 @import "tailwindcss";
-
-html, body, #root {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-Home {
-  background-image: url('/seu-background.jpg'); /* ou background-color: #1e3a8a; */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed; /* opcional – fica fixo ao rolar */
-}
