@@ -2,16 +2,13 @@ const Header = () => {
   return (
     <header>
       <div>
-        <nav className="bg-pink-800 text-white py-4 px-6 flex justify-end">
+        <nav className="bg-blue-300 text-white py-4 px-6 flex justify-end">
           <ul className="flex space-x-4">
             <li className="hover:text-gray-400">
               <a href="/">Home</a>
             </li>
             <li className="hover:text-gray-400">
               <a href="/about">About</a>
-            </li>
-            <li className="hover:text-gray-400">
-              <a href="/contact">Contact</a>
             </li>
           </ul>
         </nav>

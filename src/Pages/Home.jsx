@@ -2,12 +2,12 @@ const Home = () => {
   return (
     <section>
       <div className="container mx-auto text-center py-8">
-        <span className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-pink-600 text-transparent bg-clip-text">
+        <span className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-pink-500 text-transparent bg-clip-text">
           Weather App
         </span>
       </div>
 
-      <div className="max-w-sm rounded overflow-hidden shadow-lg bg-pink-700 text-white mx-auto mt-6 p-6">
+      <div className="max-w-sm rounded overflow-hidden shadow-lg bg-blue-300 text-white mx-auto mt-6 p-6">
         <div class="relative w-full max-w-md">
           <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
             <svg
