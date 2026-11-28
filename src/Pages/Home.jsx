@@ -2,7 +2,7 @@ const Home = () => {
   return (
     <section>
       <div className="container mx-auto text-center py-8">
-        <span className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-pink-500 text-transparent bg-clip-text">
+        <span className="text-4xl font-bold bg-linear-to-r from-blue-400 to-pink-500 text-transparent bg-clip-text">
           Weather App
         </span>
       </div>
